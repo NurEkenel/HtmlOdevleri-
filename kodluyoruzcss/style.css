@@ -1,0 +1,34 @@
+
+.body {
+    text-align: center;
+    list-style-position: inside;
+}
+
+#toppage {
+    font-size: 12px;
+}
+
+h1{
+    background-color: rgb(9, 119, 156);
+    font-size: 50px;
+}
+.section {
+    font-size: 25px;
+}
+.link1 { 
+    font-size: 20px;
+    border-style:round; 
+    border-width: 9pt;
+}
+.link2 { 
+    font-size: 20px;
+   
+}
+.link3 { 
+    font-size: 20px;
+    
+}
+
+#Footer {
+    font-size: 12px;
+}
