@@ -1,0 +1,52 @@
+.header {
+    text-align: center;
+}
+
+.middle {
+    background-color: gainsboro;
+    text-align: center;
+    font-size: 20px;
+}
+
+.search{ 
+    border: solid;
+    border-color: grey;
+    padding: auto;
+    border-width: 1px;
+    border-radius: 9%;
+    font-size: 15px;
+}
+
+.lucky{ 
+    border: solid;
+    padding: auto;
+    border-width: 1px;
+}
+.content{
+    text-align: center;
+}
+.card-1{
+    height: 100px;
+    width: 472px;
+    float: left;
+    background-color: rgb(93, 189, 189);
+    margin-right: 2px;
+}
+
+.card-2{
+    height: 100px;
+    width: 472px;
+    float: left;
+    background-color: rgb(60, 177, 177);
+    margin-right: 2px;
+}
+.card-3{
+    height: 100px;
+    width: 472px;
+    float: left;
+    background-color: rgb(63, 152, 152);
+}
+
+.footer {   
+    text-align: center;
+}

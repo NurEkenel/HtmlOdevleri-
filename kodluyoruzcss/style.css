@@ -4,6 +4,8 @@
     list-style-position: inside;
 }
 
+a[href$="org"]:hover
+
 #toppage {
     font-size: 12px;
 }
@@ -17,7 +19,7 @@ h1{
 }
 .link1 { 
     font-size: 20px;
-    border-style:round; 
+    border-style:solid; 
     border-width: 9pt;
 }
 .link2 { 
